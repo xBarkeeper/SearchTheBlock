@@ -1,0 +1,11 @@
+name: SearchTheBlock
+version: 1.0.0
+main: de.rissi.SearchTheBlock.SearchTheBlock
+description: Minigame where you have to search a Block
+author: xBarkeeper
+website: rissi.de
+commands:
+     SearchTheBlock:
+          description: Use "/stb Help" to see a overview
+          usage: </command>
+          aliases: [stb]
